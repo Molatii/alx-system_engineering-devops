@@ -15,4 +15,5 @@ What each script does in details:
 11. 10-no_more_js : script that deletes all the regular files
 12. 11-directories :  a script that counts the number of directories and sub-directories in the current directory
 13. 12-newest_files : a script that displays the 10 newest files
-14. 13-unique : a script that takes a list of words as input and prints only words that appear exactly once 
+14. 13-unique : a script that takes a list of words as input and prints only words that appear exactly once
+15. 14-findthatword : isplay lines containing the pattern “root” from the file /etc/passwd 
