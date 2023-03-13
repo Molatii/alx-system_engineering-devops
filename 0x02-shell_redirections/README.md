@@ -23,4 +23,5 @@ What each script does in details:
 19. 18-letteronly: Display all lines of the file /etc/ssh/sshd_config starting with a letter
 20. 19-AZ: Replace all characters A and c from input to Z and e respectively
 21. 20-hiago: script that removes all letters c and C from input.
-22. 21-reverse: This a script that reverse its input 
+22. 21-reverse: This a script that reverse its input
+23. 22-users_and_homes : This displays all users and their home directories, sorted by users 
